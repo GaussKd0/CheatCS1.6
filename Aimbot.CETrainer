@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <Forms>
+    <CETrainer class="TTrainerForm" Encoding="Ascii85">YiD3!2nldA.0XySO3chlEpp2+%H=!,h4NT?QqxM9eOTE%QZv(tN_-,_Fo*z9Fo!a-hG)XfWH84uvO6ahlw^]Tu@{_E]^z05/QJ#1bAc*6oXq5Gj*45*OprQuzJmPV/f7EnJm:KBlGGx$.N--d*D#W_1@?</CETrainer>
+  </Forms>
+  <cheatEntries />
+  <userDefinedSymbols />
+  <LuaScript>
+    dofile("Aim_memcpy.h")
+  </LuaScript>
+</CheatTable>
